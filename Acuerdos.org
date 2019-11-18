@@ -13,3 +13,41 @@
 * Legitimidad de los records
 ** Decisión
 Anular récords con indumentaria inapropiada (ver caso a caso)
+
+* Poder/Decisiones de directiva + votación de clubes
+- Definimos: 
+Rol de la directiva de federación: gestionar decisiones clubes, y presentar propuestas.
+Rol presidentes clubes: representar el sentir de sus atletas en las votaciones, y presentar propuestas
+
+- Sistema de postulaciones:
+Se abren los cargos y presidentes difunden en sus clubes para que se hagan las postulaciones.
+¿Qué ocurre con los postulantes después?
+
+- Propuesta:
+SI HAY 1 CANDIDATO
+- Candidato envía su carta o cv a la directiva, directiva evalúa únicamente requisitos de tiempo y habilidades minimas
+- Directiva puede NO admitir una postulación que no cumpla con requisitos minimos (pienso mayor de 18 años, tantas horas a la semana, etc)
+- Se envía la carta o cv a cada club
+- Si hay 1 candidato, se somete a votación por clubes, excluyendo al club dónde proviene el candidato
+- Se acepta o rechaza al candidato
+SI HAY MAS DE 1 CANDIDATO
+- Solo se modifica la votación, se usa una votación simple dónde 1 persona = 1 voto 
+- La votacíon se realiza un día en particula y se elije uno u otro candidato
+
+* Propuesta flujo de decisiones
+** De abajo para arriba
+- Club genera una inquietud que es manejada por el presidente del club
+- El presidente generar una propuesta para atender la inquietud
+- La propuesta es detallada es sus demandas y tiene hitos concretos para determinar si fue cumplida o no
+- La propuesta se discute entre el presidente y la directiva para llegar a algo razonable
+- Una vez diseñada la propuesta se somete a votación por clubes
+- La propuesta de rechaza o se acepta en cada club con sistema de mayoría simple
+- La votación mayoritaria se determina como la decisión del club
+- La votación mayoritaria se multiplica por la cantidad de votos del club (definido por el sistema de cantidad de votos por tramo)
+- Se hace un conteo de votos y se acepta o rechaza la propuesta a nivel global
+- Si la propuesta es acepta, la directiva pone todos sus recursos en cumplir en plazo razonable
+- La directiva puede tomar decisiones sin necesidad de consulta para lograr cumplir la propuesta
+- Si la propuesta es rechazada, puede existir una reformulación de la misma luego de un plazo de (XX)
+** De arriba para abajo
+- La directiva genera una inquietud y propuesta
+- La votación ocurre tal como se detalla en 'de abajo para arriba'
