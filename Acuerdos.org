@@ -1,0 +1,10 @@
+* Una persona no da el peso para una competencia oficial, que hacer?
+** Propuestas
+ Esa persona solo puede competir como exhibición
+ Utilizar reglamento tipo CPU/USAPL
+** Decisión final
+   Seguimos regla CPU/USAPL donde atleta que no da el peso, puede ser cambiado a la
+   categoría que le corresponda. Tiene derecho a marcar ranking y a récord. No
+   tiene derecho a medalla en caso de que la categoría a la que entre tenga menos
+   de 3 competidores.
+
